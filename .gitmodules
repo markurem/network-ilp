@@ -1,0 +1,3 @@
+[submodule "src/graph"]
+	path = src/graph
+	url = https://github.com/bjoern-andres/graph.git
